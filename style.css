@@ -1,0 +1,59 @@
+/*Selector {
+	property:value;
+}*/
+
+html {
+	background-color: #FFDEB5;
+}
+
+h2 {
+	color: #FF9B20;
+	line-height: 20px;
+	font-size: 200%;
+	font-family: 'Black And White Picture', sans-serif;
+    font-family: 'Caveat', cursive;
+    
+}
+
+p {
+	color: #FF9B20;
+	line-height: 20px;
+	font-size: 200%;
+	font-family: 'Caveat', cursive;
+	font-family: 'Black And White Picture', sans-serif;
+font-family: 'Caveat', cursive;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img{
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+	transition: all 2 sec;
+}
+
+img:hover{
+	transform: scale(1.1);
+}
+
+a {
+	font-size: 130%;
+	font-family: 'Caveat', cursive;
+	font-family: 'Black And White Picture', sans-serif;
+font-family: 'Caveat', cursive;
+}
+
+form {
+	color: #FF9B20;
+	line-height: 20px;
+	font-size: 200%;
+	font-family: 'Black And White Picture', sans-serif;
+font-family: 'Caveat', cursive;
+
+}
+
